@@ -10,12 +10,13 @@ I hope to learn more about different aspects of design and programming.
 Programming languages I'm keen on learning and understanding more of are:
 
                       C
+                      C#
                       C++
                       CSS
                       HTML
                       Java
                       Javascript
-                      J-Query
+                      SQL
                       
 I'm currently in university and I've learned a bit of each but I wish to learn more.
 My goal is be comfortable enough with each language to be able to tackle programming and design problems with ease.
