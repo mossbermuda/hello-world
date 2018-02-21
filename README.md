@@ -22,5 +22,6 @@ My goal is be comfortable enough with each language to be able to tackle program
 Lastly I hope to start my own company.
 In order to do so I need to stop procastinating (i.e. what I'm doing now) and buckle down and work my ass off.
 
-    "An idea can only go so far. Hardwork and dedication to your craft is what make those ideas become reality."
+    "An idea can only go so far. 
+     Hardwork and dedication to your craft is what make those ideas become reality."
         - Me
