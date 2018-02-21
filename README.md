@@ -19,8 +19,8 @@ Programming languages I'm keen on learning and understanding more of are:
                       SQL
                       
 I'm currently in university and I've learned a bit of each but I wish to learn more.
-My goal is be comfortable enough with each language to be able to tackle programming and design problems with ease.
-Lastly I hope to start my own company.
+My goal is to become comfortable enough with each language, so that I can tackle programming and design problems with ease.
+Lastly I hope to start my own company focusing on design, video game development, art, and programming projects/apps.
 In order to do so I need to stop procastinating (i.e. what I'm doing now) and buckle down and work my ass off.
 
     "An idea can only go so far. 
